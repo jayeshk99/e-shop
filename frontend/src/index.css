@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto";
+}
+
+:root {
+  --primary-color: white;
+  --secondary-color: rgb(255, 66, 98);
+  --textColor: black;
+  --borderColor: rgb(227, 227, 227);
+}

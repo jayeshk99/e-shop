@@ -1,0 +1,13 @@
+.productPage {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+}
+.sideBar {
+  width: 20%;
+  /* border: 1px solid red; */
+}
+.productsComp {
+  width: 80%;
+  /* border: 1px solid red; */
+}
